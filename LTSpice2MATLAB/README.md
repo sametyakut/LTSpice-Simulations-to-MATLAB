@@ -24,3 +24,7 @@ The original version of this script created by Paul Wagner can be found on
 [MATLAB Central][original].
 
 [original]: https://www.mathworks.com/matlabcentral/fileexchange/23394-fast-import-of-compressed-binary-raw-files-created-with-ltspice-circuit-simulator
+
+# .bat Files
+
+Files with ".bat" extensions are created for opening and closing the LTSpice when MATLAB script is executed. 

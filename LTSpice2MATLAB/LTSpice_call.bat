@@ -1,0 +1,1 @@
+start "C:\Program Files\LTC\LTspiceXVII\XVIIx64.exe -b" C:\Users\Acer\Desktop\LTSpiceAndMATLAB>\practice.net
